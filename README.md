@@ -1,4 +1,4 @@
 # Studies-on-Cassical-Metamathematics
-I will present my study on classical metamathematics here, including set theory, structural proof theory, recursion theory, formal arithmetic, and other relvant research by Gödel and Tarski. I don't act as the researcher in these fields in public, but this research is closely related to mine.
+I will present my research on classical metamathematics here, covering set theory, structural proof theory, computability theory, formal arithmetic, and other relevant work by Gödel and Tarski. Should it be necessary, I will also introduce category theory and type theory, although these are not part of the core theme. While I don't publicly identify myself as a researcher in these fields,the aforementioned research is closely aligned with my own work.
 
 Note: I don't know if my studies posted here will be cited by others. If they do, please let me know first.
